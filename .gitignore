@@ -1,3 +1,10 @@
+# Custom
+dist/*
+bin/*
+logs/*
+log.data
+stack.dat
+
 # Generated C files
 *.c
 *.c.*
